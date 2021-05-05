@@ -1,0 +1,25 @@
+{
+  "navbar": {
+    "menu": {
+      "link-1": "How it works",
+      "link-2": "Reviews",
+      "link-3": "Contacts"
+    },
+    "mobile": {
+      "title": "Menu"
+    },
+    "button": "Log in"
+  },
+  "header": {
+    "title": "New generation TMS",
+    "subtitle": "Modern solution for automation of freight transportation",
+    "button": "Get acquainted with the functionality"
+  },
+  "cards": {
+    "title": "For whom?",
+    "card-item-1": "Logistics operators",
+    "card-item-2": "Transport companies",
+    "card-item-3": "Retailers and distributors",
+    "card-item-4": "Production companies"
+  }
+}
